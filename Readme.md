@@ -25,7 +25,7 @@
 
 
 
-## 7. <a href= "">  </a>
+## 7. <a href= "https://github.com/Rajat6697/30days_ML_MasterClass/tree/master/Adult-Salary-Prediction-Validating-Model"> Adult-Salary-Prediction-Validating-Model </a>
 
 
 
